@@ -19,7 +19,7 @@ So, I'm working on that Project called NOVA inc. NOVA inc. is like a big, warm h
 
 ## music
 Well, Music is one of the most important things in my life. I listen to it very often but I also make it. <br>
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/1GDrU0lajEHlTVwlf9SdiR?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+[Click here to go to my Spotify](https://open.spotify.com/artist/1GDrU0lajEHlTVwlf9SdiR?si=cLcnDIjLQ8iBneI2sDqypQ)
 
 ### I'm probably listening to music (:
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=pk0jvg6e4xxm4h5txcnng5s0k&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true&bar_color=4e954b)](https://github.com/kittinan/spotify-github-profile)
